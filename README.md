@@ -57,8 +57,6 @@ A native macOS day planner with tasks on a 24-hour timeline. Drag to reschedule 
 | Architecture & data flow | MVVM, modular design, Combine, Swift concurrency |
 | Product experience | Fintech, multi-chain wallets, token management, cross-network bridges |
 
-My professional work includes **Defiway**, a multi-chain crypto wallet, and copytrading interfaces. [Explore selected product work →](https://github.com/funkydevil/Portfolio)
-
 ---
 
 <sub>Based in Lisbon, Portugal · [Get in touch](mailto:kirill.pyulzyu@gmail.com)</sub>
