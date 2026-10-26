@@ -18,17 +18,19 @@ A macOS menu bar app that helps you notice distractions and return to your task.
 
 <sub>macOS · Focus & productivity</sub>
 
+[Source code](https://github.com/funkydevil/ADHD-Guard) · [Website](https://funkydevil.github.io/adhd-guard/)
+
+[![ADHD Guard — focus mode and refocus reminder](assets/adhd-guard.png)](https://github.com/funkydevil/ADHD-Guard)
+
 ### [HotKey Translate](https://funkydevil.github.io/hotkey-translate/support.html)
 
 Quick text translation from the macOS menu bar. Copy text, press a global shortcut, and open the translator without breaking your workflow.
 
 <sub>macOS · Global shortcuts · Translation</sub>
 
-### [SwiftUI Gym](https://github.com/funkydevil/SwiftUI-Gym)
+[Source code](https://github.com/funkydevil/HotKey-Translate) · [Support](https://funkydevil.github.io/hotkey-translate/support.html)
 
-A native macOS trainer for SwiftUI live coding and interview practice. Guided challenges, compiler feedback, and previews in the iOS Simulator.
-
-<sub>Swift · SwiftUI · Developer tools · Open source</sub>
+[![HotKey Translate — translation through a global keyboard shortcut](assets/hotkey-translate.png)](https://github.com/funkydevil/HotKey-Translate)
 
 ## Engineering
 
