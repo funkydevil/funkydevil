@@ -32,6 +32,23 @@ Quick text translation from the macOS menu bar. Copy text, press a global shortc
 
 [![HotKey Translate — translation through a global keyboard shortcut](assets/hotkey-translate.png)](https://github.com/funkydevil/HotKey-Translate)
 
+### [Dayline (CheckCalendar)](https://github.com/funkydevil/CheckCalendar)
+
+A native macOS day planner with tasks on a 24-hour timeline. Drag to reschedule or resize tasks, track completion, and review daily progress. All task data is stored locally.
+
+<sub>Swift · SwiftUI · macOS · Planning & productivity</sub>
+
+[Source code](https://github.com/funkydevil/CheckCalendar)
+
+[![Dayline — daily timeline with demonstration tasks](assets/checkcalendar-timeline.png)](https://github.com/funkydevil/CheckCalendar)
+
+<details>
+<summary>Task editor</summary>
+
+<img src="assets/checkcalendar-editor.png" alt="Dayline task editor — title, notes, color, start time and duration" width="460">
+
+</details>
+
 ## Engineering
 
 | Area | Focus |
